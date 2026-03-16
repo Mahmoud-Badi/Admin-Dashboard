@@ -1,8 +1,7 @@
 # Admin Dashboard
 
-This project is part of [The Odin Project](https://www.theodinproject.com) curriculum — specifically the **Intermediate HTML and CSS** course.
+This project is part of [The Odin Project](https://www.theodinproject.com) curriculum, specifically the **Intermediate HTML and CSS** course.
 
-**Project lesson:** [Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
 
 ## Live Demo
 
