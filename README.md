@@ -17,7 +17,7 @@ An admin dashboard built with HTML and CSS, focusing on CSS Grid for the overall
 
 - HTML5
 - CSS3 (Grid, Flexbox)
-- [Inter](https://fonts.google.com/specimen/Inter) — Google Fonts
-- [Material Design Icons](https://pictogrammers.com/library/mdi/) — inline SVGs
+- [Inter](https://fonts.google.com/specimen/Inter) - Google Fonts
+- [Material Design Icons](https://pictogrammers.com/library/mdi/) - inline SVGs
 
 
